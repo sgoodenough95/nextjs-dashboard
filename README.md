@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+## Next.js App Router Course - Starter
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
